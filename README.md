@@ -1,2 +1,1 @@
-# Laboratorium
-All about laboratorium
+# All About Documentation
